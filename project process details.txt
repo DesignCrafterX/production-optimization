@@ -1,0 +1,59 @@
+Vision
+Our vision is to create a highly efficient and cost-effective tire manufacturing process that consistently meets production targets while minimizing defects and downtime. By leveraging data-driven insights, we aim to enhance production efficiency, optimize resource allocation, and implement continuous improvement strategies. This will result in superior product quality, reduced operational costs, and improved labor productivity, ensuring a competitive edge in the industry. Ultimately, our goal is to foster a culture of innovation, sustainability, and excellence in manufacturing, setting new standards for operational efficiency and customer satisfaction.
+
+Mission
+Our mission is to deliver high-quality tires by optimizing every aspect of the production process through data-driven decision-making. We are committed to minimizing defects, reducing machine downtime, and maximizing labor productivity while maintaining cost efficiency. By continuously improving production methods, investing in advanced technology, and empowering our workforce, we aim to exceed industry standards and meet the evolving needs of our customers. Our focus is on sustainable growth, operational excellence, and providing exceptional value, ensuring long-term success in the global tire manufacturing industry.
+
+Work to be Done
+
+
+Trend Analysis
+Weekly Production Trends: Visualize production levels over the 52 weeks to identify peaks and troughs in output.
+Defect Rate Trends: Analyze how the defect rate fluctuates week-to-week, identifying any seasonal patterns or issues.
+Machine Downtime Trends: Track downtime across weeks to determine if there are specific periods of high downtime, indicating maintenance issues.
+
+
+2. Cost Analysis
+Cost per Tire: Calculate the total production cost per tire produced to assess cost efficiency.
+Material vs. Labor Costs: Analyze the proportion of material costs versus labor costs to understand where expenditures are concentrated and where potential savings may be found.
+Cost Trends: Assess how total costs change over the year and identify any correlations with production efficiency or defect rates.
+
+
+3. Efficiency Analysis
+Production Efficiency: Calculate average weekly production efficiency and analyze factors affecting it (e.g., machine downtime, defect rates).
+Labor Productivity: Evaluate the output per labor hour to assess worker productivity. This can be calculated by dividing total tires produced by total labor hours.
+
+
+4. Defect Analysis
+Root Cause Analysis: Investigate weeks with high defect rates to identify possible causes (e.g., machine settings, material quality, operator error).
+Cost of Quality: Analyze the cost associated with defects (rework, scrap) to quantify the impact on overall production costs.
+
+
+5. Forecasting
+Predict Future Production: Use historical data to create forecasts for future production levels, allowing for better planning and resource allocation.
+Demand Forecasting: If market demand data is available, compare production output against demand trends to identify any gaps.
+
+
+6. Comparative Analysis
+Benchmarking: Compare your production metrics against industry standards or competitors to identify areas for improvement.
+Best and Worst Weeks: Identify the best-performing and worst-performing weeks to analyze what practices led to successes or failures.
+
+
+7. Visual Data Analysis
+Dashboards: Create dashboards to visualize key performance indicators (KPIs) such as production volume, defect rates, and costs, facilitating easier decision-making.
+Histograms/Graphs: Use graphs and histograms to illustrate the distribution of defect rates and production efficiencies over the year.
+
+
+8. Process Improvement Initiatives
+Lean Manufacturing Techniques: Based on the analysis, implement lean principles to reduce waste and improve efficiency (e.g., Just-In-Time inventory, 5S).
+Continuous Improvement Projects: Launch projects targeting specific areas for improvement, such as reducing downtime or defect rates.
+
+
+9. Impact of External Factors
+Seasonal Effects: Analyze whether certain times of the year lead to increased defects or decreased production, possibly correlating with supply chain issues or market demands.
+Supplier Analysis: If material cost data varies significantly, evaluate the impact of different suppliers on production costs and quality.
+
+
+10. Resource Allocation
+Labor and Machine Utilization: Analyze if there are optimal staffing or machine schedules to maximize production without overworking resources.
+Maintenance Scheduling: Use downtime data to inform preventive maintenance schedules, reducing unplanned downtime.
